@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET')
 	}
 }
 
-// Crear un nuevo post
+// Crear
 if ($_SERVER['REQUEST_METHOD'] == 'POST')
 {
     $input = $_POST;
